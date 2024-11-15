@@ -147,20 +147,19 @@ href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
 | WhatsApp | grupo | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
-| WhatsApp | Team Kakaroto | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
-| WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
+| WhatsApp | Team CDR
+| [¡Click aquí!](https://whatsapp.com/channel/0029Vawo02r4o7qHnyQQKV29) |
+| WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe) |
  
 
 ### **`🔱 COLABORADORES`**
 <a
-href="https://github.com/Diomar-s"><img src="https://qu.ax/AcSK.jpg" width="130" height="130" alt="Legendary"/></a>
+href="https://github.com/REYESCDR"><img src="https://github.com/Pajitas7pro/Xd/blob/main/66fdde6c-496f-480f-b875-a7a5202a925b.jpeg" width="130" height="130" alt="Legendary"/></a>
 
 </a> 
 
 
 
-### **`🌹 CREDITOS`**
-<a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
 
-[© Powered By KAKAROTO Team ⚡︎](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t)
+
+[© Powered By CDR Team ⚡︎](https://whatsapp.com/channel/0029Vawo02r4o7qHnyQQKV29)
