@@ -31,7 +31,7 @@ let tags = {
 
 const defaultMenu = {
   before: ` 
-*╭━━❍𝙆𝘼𝙆𝘼𝙍𝙊𝙏𝙊-☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❍━━╮* 
+*╭━━❍𝑪𝑫𝑹:𝑩𝑶𝑻☆❍━━╮* 
 *┣━━━▢ ❤𝐇𝐎𝐋𝐀, *%name* ❤*• 
 *┃╭━━━━━━━━━━━━━━━━╾•* 
 *┃┃  %greeting* 
@@ -43,7 +43,7 @@ const defaultMenu = {
 *┃┃ ⋄ *𝘼𝘾𝙏𝙄𝙑𝙊:* %muptime
 *┃┃ ⋄ *𝙐𝙎𝙐𝘼𝙍𝙄𝙊𝙎:* %totalreg
 *┃╰━━━━━━━━━━━━━━━━╾•* 
-*╰━━━╼𝗞𝗔𝗞𝗔𝗥𝗢𝗧𝗢-𝗕𝗢𝗧╾━━━╯* 
+*╰━━━╼𝑪𝑫𝑹:𝑩𝑶𝑻╾━━━╯* 
 
 
 %readmore
@@ -162,7 +162,7 @@ readmore: readMore
 }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
-  let category = "video"
+  let category = "imagen""
   const db = './src/database/db.json'
   const db_ = JSON.parse(fs.readFileSync(db))
   const random = Math.floor(Math.random() * db_.links[category].length)
