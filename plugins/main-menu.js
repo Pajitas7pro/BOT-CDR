@@ -184,12 +184,12 @@ await conn.sendMessage(
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363350628883149@newsletter',
-      newsletterName: 'CANAL 𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎/☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆',
+      newsletterName: 'CANAL 𝑪𝑫𝑹:𝑩𝑶𝑻☆',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: 'Kakaroto',
+      title: 'BOT-CDR',
       body: dev,
       thumbnailUrl: fotoperfil,
       sourceUrl: redes,
