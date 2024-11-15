@@ -2,7 +2,7 @@
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;CDR+-+Bot+-+MD;Gracias+por+preferirnos+creado+por+R&E;🥷🏻+BOOM!!!;🥷🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;BOT+-+CDR+-+MD;Gracias+por+preferirnos+-+creado+por+R&E;🥷🏻+BOOM!!!;🥷🏻)](https://git.io/typing-svg)
 ![CDR](https://github.com/Pajitas7pro/Xd/blob/main/IMG_2812.jpeg)
 
 <div align="center">
@@ -67,6 +67,8 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn &
 ```bash
 npm start
 ```
+>si la instalacion se detiene y pide "y/n" coloque "y".
+>si tiene alguna pregunta o necesita ayuda escriba a soporte o al creador.
 > si despues de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal 
 ---
 
