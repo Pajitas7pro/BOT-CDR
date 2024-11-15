@@ -1,15 +1,14 @@
-<h1 align="center">KAKAROTO-BOT-MD 💨</h1>
+<h1 align="center">BOT-CDR</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakaroto+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+legendary;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
-![Kakaroto](https://i.ibb.co/4NWqF0m/file.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakaroto+-+Bot+-+MD;Gracias+por+preferirnos+creado+por+R&E;🥷🏻+BOOM!!!;🥷🏻)](https://git.io/typing-svg)
+![CDR](IMG_2812.jpeg)
 
 <div align="center">
  
-[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
-[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573142051545)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kakaroto-bot)
+[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447534352383)
+[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15102104796)
 </div>
 
 ---
@@ -28,12 +27,12 @@
 ### **`💭 Contáctanos`**
 
 <a
-href="https://wa.me/573142051545?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
+href="https://wa.me/447534352383?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/573142051545
+* https://wa.me/15102104796
 
 ---
 
@@ -48,7 +47,6 @@ href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="htt
 
 <div align=>
 
-[![YouTube](https://img.shields.io/badge/Tutorial-instalacion-FF0000?style=for-the-badge&logo=youTube&logoColor=white)](https://youtu.be/JICVzI0sOLk?si=1GJ3_vl_TNpfb9Iv)
  
 
 #### **`💨 Instalación por termux`**
@@ -63,15 +61,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/Diomar-s/Kakaroto-Bot-MD && cd Kakaroto-Bot-MD
-```
-
-```bash
-yarn install && npm install
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/Pajitas7pro/BOT-CDR && cd BOT-CDR && yarn install && npm install
 ```
 
 ```bash
@@ -86,7 +76,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd BOT-CDR
     ```
 
 2. Inicia el bot nuevamente:
@@ -102,7 +92,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Kakaroto-Bot-MD
+    cd BOT-CDR
     ```
 
 2. Elimina la carpeta MiniSession:
@@ -138,31 +128,14 @@ href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="
 
 <div align=>
 
-[![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
  
 
 <details>
- <summary><b> ❤️ servidor Sky ultra</b></summary>
 
-* Estado Sky [`Status`](https://estado.skyultraplus.com)
-* Dash Sky[`Dash`](https://dash.skyultraplus.com)
-* Panel Sky [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad Sky [`Click`](https://chat.whatsapp.com/KGPhTIfgOzZCMNqoc3R7OW)
+* Canal de WhatsApp [`Canal Sky`](https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe)
+
 
 ---
-
-
-</details>
-
------ 
-#### **`⏏️ ACTIVAR EN KOYEB`**
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Diomar-s/Kakaroto-Bot-MD&branch=master&name=kakarotobot-md)
-
-------------------
-#### **`☁️ ACTIVAR EN RENDER`**
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDiomar-s%2FKakaroto-Bot-MD)
-
 
 
 </details>
@@ -173,7 +146,7 @@ href="https://dash.skyultraplus.com"><img src="https://qu.ax/zFzXF.png" height="
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
+| WhatsApp | grupo | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
 | WhatsApp | Team Kakaroto | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
  
