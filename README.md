@@ -142,7 +142,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | grupo | [¡Click aquí!](https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t) |
+| WhatsApp | soporte | [¡Click aquí!](https://wa.me/447863572502) |
+| WhatsApp | soporte 2| [¡Click aqui!](https://wa.me/15102104796) 
 | WhatsApp | Team CDR| [¡Click aquí!](https://whatsapp.com/channel/0029Vawo02r4o7qHnyQQKV29) |
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe) |
  
