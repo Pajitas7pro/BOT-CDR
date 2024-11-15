@@ -121,15 +121,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ---
 
-##### **`🌟 SKY ULTRA PLUS`**
 
-<a
-
-<div align=>
 
  
 
-<details>
+
 
 * Canal de WhatsApp [`Canal Sky`](https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe)
 
