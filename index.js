@@ -7,13 +7,13 @@ import cfonts from 'cfonts';
 import { createInterface } from 'readline';
 import yargs from 'yargs';
 import chalk from 'chalk';
-console.log('\n✰ Iniciando Kakaroto-Bot-MD✰');
+console.log('\n✰ Iniciando BOT-CDR✰');
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('KAKAROTO-BOT-MD', {
+say('BOT-CDR', {
 font: 'block',
 align: 'center',
 colors: ['blueBright']
