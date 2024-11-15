@@ -154,7 +154,7 @@ opcion = await question(`╭${lineM}
 │ ${chalk.blueBright('┊')} ${chalk.italic.magenta("Escriba solo el numero de")}
 │ ${chalk.blueBright('┊')} ${chalk.italic.magenta("La opcion para conectarse")}
 │ ${chalk.blueBright('╰┄┈┅┈┄┈┅┈┄┅┈┄┈┅┄┈┅┈┄')} 
-│ ${chalk.italic.red(`𝓚𝓐𝓚𝓐𝓡𝓞𝓣𝓞-𝓑𝓞𝓣 🐉`)}
+│ ${chalk.italic.red(`𝗖𝗗𝗥 🥷🏻`)}
 ╰${lineM}\n${chalk.bold.magentaBright('---> ')}`)
 if (!/^[1-2]$/.test(opcion)) {
 console.log(chalk.bold.redBright(`NO SE PERMITE NÚMEROS QUE NO SEAN ${chalk.bold.greenBright("1")} O ${chalk.bold.greenBright("2")}, TAMPOCO LETRAS O SÍMBOLOS ESPECIALES.\n${chalk.bold.yellowBright("CONSEJO: COPIE EL NÚMERO DE LA OPCIÓN Y PÉGUELO EN LA CONSOLA.")}`))
@@ -246,7 +246,7 @@ global.timestamp.connect = new Date
 if (global.db.data == null) loadDatabase()
 if (update.qr != 0 && update.qr != undefined || methodCodeQR) {
 if (opcion == '1' || methodCodeQR) {
-console.log(chalk.bold.yellow(`\n🐉 ESCANEA EL CÓDIGO QR EXPIRA EN 45 SEGUNDOS`))}
+console.log(chalk.bold.yellow(`\n🥷🏻 ESCANEA EL CÓDIGO QR EXPIRA EN 60 SEGUNDOS`))}
 }
 if (connection == 'open') {
 console.log(chalk.bold.greenBright(`\n❒⸺⸺⸺⸺【• CONECTADO •】⸺⸺⸺⸺❒\n│\n│ 🟢 Se ha conectado con WhatsApp exitosamente.\n│\n❒⸺⸺⸺⸺【• CONECTADO •】⸺⸺⸺⸺❒`))}
@@ -280,7 +280,7 @@ process.on('uncaughtException', console.error);
 async function connectSubBots() {
 const subBotDirectory = './GokuJadiBot';
 if (!existsSync(subBotDirectory)) {
-console.log('💨 Kakaroto-Bot-MD no tiene Sub-Bots vinculados.');
+console.log('💨 BOT-CDR no tiene Sub-Bots vinculados.');
 return;
 }
 
@@ -297,21 +297,21 @@ return await connectionUpdate(authFile);
 
 const bots = await Promise.all(botPromises);
 global.conns = bots.filter(Boolean);
-console.log(chalk.bold.greenBright(`🐉 Todos los Sub-Bots se conectaron con éxito.`))
+console.log(chalk.bold.greenBright(`🥷🏻 Todos los Sub-Bots se conectaron con éxito.`))
 }
 
 (async () => {
 global.conns = [];
 
-const mainBotAuthFile = 'GokuSession';
+const mainBotAuthFile = 'CDRSession';
 try {
 const mainBot = await connectionUpdate(mainBotAuthFile);
 global.conns.push(mainBot);
-console.log(chalk.bold.greenBright(`☁️ Ai Kakaroto conectado correctamente.`))
+console.log(chalk.bold.greenBright(`☁️ Ai BOT-CDR conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`💨 Error al iniciar Kakaroto-Bot-MD: `, error))
+console.error(chalk.bold.cyanBright(`💨 Error al iniciar BOT-CDR: `, error))
 }
 })();
 
@@ -438,7 +438,7 @@ return file.startsWith('pre-key-')
 })
 prekey = [...prekey, ...filesFolderPreKeys]
 filesFolderPreKeys.forEach(files => {
-unlinkSync(`./GokuSession/${files}`)
+unlinkSync(`./CDRSession/${files}`)
 })
 } 
 function purgeSessionSB() {
@@ -464,7 +464,7 @@ console.log(chalk.bold.cyanBright(`\n╭» ⚪ GokuJadiBot ⚪\n│→ ARCHIVOS 
 console.log(chalk.bold.red(`\n╭» 🔴 GokuJadiBot 🔴\n│→ OCURRIÓ UN ERROR\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️\n` + err))
 }}
 function purgeOldFiles() {
-const directories = ['./GokuSession/', './GokuJadiBot/']
+const directories = ['./CDRSession/', './GokuJadiBot/']
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
 if (err) throw err
