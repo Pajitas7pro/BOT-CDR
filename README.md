@@ -2,8 +2,8 @@
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Kakaroto+-+Bot+-+MD;Gracias+por+preferirnos+creado+por+R&E;🥷🏻+BOOM!!!;🥷🏻)](https://git.io/typing-svg)
-![CDR](IMG_2812.jpeg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;CDR+-+Bot+-+MD;Gracias+por+preferirnos+creado+por+R&E;🥷🏻+BOOM!!!;🥷🏻)](https://git.io/typing-svg)
+![CDR](https://github.com/Pajitas7pro/Xd/blob/main/IMG_2812.jpeg)
 
 <div align="center">
  
