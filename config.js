@@ -15,7 +15,7 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
   ['15102104796', 'Legen-Soporte', true],
-  ['447534352383', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
+  ['447534352383', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒❝𝐄𝐑𝐈𝐂𝐊❞༒꧂☆', true],
   ['447863572502', 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', false],
   ['447863572502'],
   ['447863572502'],
@@ -41,7 +41,7 @@ global.jadi = 'CdrJadiBot'
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = ` 🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷`
-global.author = `♾━━━━━━━━\n⇝͟͞  🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷 ⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ✞𝐂𝐃𝐑 𝐋𝐎𝐒 𝐑𝐎𝐉𝐎𝐒✞`;
+global.author = `♾━━━━━━━━\n⇝͟͞  🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷 ⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒❝𝐄𝐑𝐈𝐂𝐊❞༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ✞𝐂𝐃𝐑 𝐋𝐎𝐒 𝐑𝐎𝐉𝐎𝐒✞`;
 global.wm = '🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷';
 global.titulowm = '🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷';
 global.titulowm2 = `🥷𝐓𝐄𝐀𝐌 𝐂𝐃𝐑 𝐑&𝐄🥷`
