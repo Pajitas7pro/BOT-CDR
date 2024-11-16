@@ -181,7 +181,7 @@ await conn.sendMessage(
   { video: { url: vid }, caption: text.trim(),
   contextInfo: {
     mentionedJid: [m.sender],
-    isForwarded: true,
+    isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363350628883149@newsletter',
       newsletterName: 'CANAL 𝑪𝑫𝑹:𝑩𝑶𝑻☆',
