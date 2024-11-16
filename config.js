@@ -14,18 +14,18 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['+15102104796', 'Legen-Soporte', true],
-  ['+447534352383', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
-  ['+447863572502', 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
-  [''],
-  [''],
-  ['']
+  ['15102104796', 'Legen-Soporte', true],
+  ['447534352383', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
+  ['447863572502', 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', false],
+  ['447863572502'],
+  ['447863572502'],
+  ['447863572502']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['+447534352383', '+15102105796', '+447863572502', '', '']
+global.mods = ['447534352383', '15102105796', '447863572502', '', '']
 
-global.suittag = ['+447863572502']
+global.suittag = ['447863572502']
 global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
@@ -103,10 +103,10 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`ꪾꪾ͟͞ĹєǤ𝒆𝐧𝐃`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `𝓒𝓓𝓡✞(ง'̀-'́)ง\n ꪾĹєǤ𝒆𝐧𝐃`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Grupo Oficial De Kakaroto 
-global.gp1 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Grupo 
-global.gp2 = ''//
-global.comunidad1 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Comunidad Kakaroto 
+global.gp4 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Grupo Oficial De c.d.r 
+global.gp1 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Grupo 1
+global.gp2 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe'//Grupo 2
+global.comunidad1 = 'https://chat.whatsapp.com/H4D3Bl6HbUV6rbmoaEZXXe' //Comunidad c.d.r 
 global.channel = '' //Canal Oficial
 global.yt = '' //Canal De Youtube
 global.md = 'https://github.com/Pajitas7pro/BOT-CDR' //Github Oficial
