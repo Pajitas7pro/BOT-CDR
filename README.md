@@ -3,7 +3,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;BOT+-+CDR+-+MD;Gracias+por+preferirnos;creado+por+CDR+Reyes+Erick;🥷LOS+DIABLOSSS!!!🥷)](https://git.io/typing-svg)
-![CDR](https://files.catbox.moe/805946.mp4)
+![CDR](https://files.catbox.moe/mlb219.jpg)
 
 <div align="center">
  
